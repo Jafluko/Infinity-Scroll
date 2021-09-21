@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Card margin layout-->
+    <dimen name="item_top_margin">8dp</dimen>
+    <dimen name="item_bottom_margin">8dp</dimen>
+    <dimen name="item_left_margin">16dp</dimen>
+    <dimen name="item_right_margin">16dp</dimen>
+
+    <!--Title margin-->
+    <dimen name="title_margin">8dp</dimen>
+    <!--Body margin-->
+    <dimen name="body_margin">8dp</dimen>
+
+
+</resources>
